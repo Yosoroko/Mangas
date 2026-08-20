@@ -6,7 +6,7 @@
   "cover": "https://kokomangas.com/wp-content/uploads/2026/08/76RQ2-714x1024.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "",
       "volume": "",
       "last_updated": "1786908844",
       "groups": {
@@ -38,6 +38,48 @@
           "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/9a77efbd0b97e39c11b693e7174c752b/27.jpg",
           "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/9a77efbd0b97e39c11b693e7174c752b/28.jpg",
           "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/9a77efbd0b97e39c11b693e7174c752b/9990.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "",
+      "volume": "",
+      "last_updated": "1787186239",
+      "groups": {
+        "": [
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/0.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/1.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/2.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/3.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/4.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/5.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/6.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/7.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/8.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/9.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/10.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/11.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/12.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/13.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/14.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/15.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/16.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/17.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/18.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/19.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/20.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/21.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/22.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/23.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/24.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/25.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/26.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/27.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/28.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/29.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/30.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/31.jpg",
+          "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a820fdc7b164/8144fc8ee05f15a9d04e326d9905ec73/9990.jpg"
         ]
       }
     }
