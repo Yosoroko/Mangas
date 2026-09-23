@@ -185,6 +185,14 @@
           "https://kokomangas.com/wp-content/uploads/WP-manga/data/manga_6a809e34c38d7/3eb4c5fc422ac876b39338fe8ac86d74/TUKII_NO_FANSUBbannerenglish.jpg"
         ]
       }
+    },
+    "4": {
+      "title": "Inverted words",
+      "volume": "",
+      "last_updated": "1790192575",
+      "groups": {
+        "Tukii no Fansub": "/proxy/api/imgchest/chapter/9rydww9ln4k"
+      }
     }
   }
 }
